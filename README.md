@@ -16,13 +16,13 @@
 <br/>
 <details>
 <summary> :bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=mmstfkc&theme=cobalt">
+<img src="https://github-readme-stats.vercel.app/api?username=mmstfkc&theme=cobalt" with="400" height="200">
 </details>
 
 <br/>
 <details>
 <summary> :bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmstfkc&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmstfkc&layout=compact" with="400" height="200">
 </details>
 
 
