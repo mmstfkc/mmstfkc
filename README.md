@@ -25,10 +25,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmstfkc&layout=compact" with="400" height="200">
 </details>
 
-
-
-
-
-
-
 [linkedin]: https://www.linkedin.com/in/mmstfkc/
