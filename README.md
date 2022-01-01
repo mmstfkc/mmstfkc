@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" with="400" height="250">
-### Hi there, I'm Mustafa. :smile:
+## Hi there, I'm Mustafa. :smile:
 
 ## Laravel Backend Developer | Blockchain Developer | Data Scientist
 
