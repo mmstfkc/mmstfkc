@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" with="400" height="250">
 <h2> Hi there, I'm Mustafa. :smile: </h2>
 
-## Laravel Backend Developer | Blockchain Developer | Data Scientist
+## Software Developer
 
 ## Reach out to me
 
